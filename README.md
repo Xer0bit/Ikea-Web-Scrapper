@@ -28,7 +28,7 @@ This is a Node.js web scraping application that extracts product information fro
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Xer0bit/Ikea-Web-Scrapper
 cd webscrape
 ```
 
